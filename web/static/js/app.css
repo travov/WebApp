@@ -1,0 +1,35 @@
+body, #mainWrapper {
+	height: 50%;
+	background-color:rgb(245, 245, 245);
+}
+body, .form-control{
+	font-size:14px!important;
+}
+.floatRight{
+	margin-right: 20px;
+}
+.has-error{
+	color:#F08080;
+}
+
+.formcontainer{
+	background-color: #6eafe8;
+	padding: 50px;
+}
+
+.tablecontainer{
+	padding-left: 20px;
+}
+
+.generic-container {
+  width:75%;
+    margin: 20px auto;
+    padding: 20px;
+  background-color: #EAE7E7;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.custom-width {
+    width: 80px !important;
+}
